@@ -3,8 +3,6 @@
  
 # 🌐 Portfolio:
 Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a developer. Feel free to explore and connect with me.
-
-🚀 Demo:
 [![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://majdi-shomali.vercel.app/)
 
 
