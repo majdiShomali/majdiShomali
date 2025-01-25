@@ -1,6 +1,7 @@
 # 💫 About Me:
  passionate Software Engineer with a strong focus on full-stack development. With expertise in ReactJS, NextJS, NodeJS, and NestJS, I build scalable and efficient web applications that prioritize performance and user experience.
-
+## 🌐 Portfolio:
+[![Portfolio](https://majdi-shomali.vercel.app/) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/majdi-shomali-b7a5bb1b9/) 
